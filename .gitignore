@@ -1,0 +1,6 @@
+*.pyc
+results*
+__pycache__
+tf*
+artifacts*
+*.o
